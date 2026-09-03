@@ -4,7 +4,7 @@ Production-oriented WordPress/WooCommerce plugin for selling shareable batches o
 
 ## Installation and requirements
 
-1. Copy `training-entitlements` to `wp-content/plugins/`.
+1. Upload the repository ZIP from **Plugins → Add Plugin → Upload Plugin**, or extract it into `wp-content/plugins/`.
 2. Activate **Aspen Training Entitlements**. Activation creates the tables and rewrite rules.
 3. Ensure WordPress 6.4+, PHP 7.4+, WooCommerce, and LifterLMS are active.
 
